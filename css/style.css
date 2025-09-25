@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(214, 214, 225);
+  font-family: Arial, sans-serif;
+  margin: 5px;
+  padding: 5px;
+  line-height: 1.6;
+  text-align: center;
+  color: rgb(28, 11, 114);
+  border:3px solid rgb(116, 28, 28)
+
+}
+.header {
+  background-color: #af4c63;
+  color: white;
+  padding: 40px 20px;
+}
+.header h1 {
+  margin: 0;
+  font-size: 20px;
+}
+.header h2 {
+  font-size: 20px;
+  margin: 10px;
+}
+.profile-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 4px solid rgb(47, 68, 21);
+  margin-top: 15px;
+}
+.navbar {
+  background-color: #430e0e;
+  padding: 10px 0 ;
+}
+.navbar a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 15px;
+}
+.navbar :{
+  text-decoration: underline;
+}
+.section {
+  padding: 40px 20px;
+  max-width: 700px;
+  margin: auto;
+}
+.section h2 {
+  font-size: 5px;
+  margin-bottom: 20px;
+}
+.section h3{
+  list-style-type: disc;
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.section h4{
+  margin: 10px 0;
+  font-size: 5px;
+}
+.footer {
+  background-color: #0f0714;
+  color: #6a1818;
+  padding: 15px 0;
+  font-size: 5px;
+}
+#list{
+  list-style: none;
+}
